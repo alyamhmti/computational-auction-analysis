@@ -50,18 +50,18 @@ The project also highlights a key theoretical distinction between auction format
 Overall, the findings support the idea that auction design significantly affects strategic behaviour, market efficiency, and revenue outcomes under conditions of incomplete information.
 
 Skills Demonstrated
-Python-based simulation
-Mathematical modelling
-Microeconomic analysis
-Game-theoretic reasoning
-Auction theory
-Data visualisation
-Strategic decision-making analysis
-Research writing
-Quantitative economic modelling
-Project File
-Computational-Analysis-of-Sealed-Bid-Auctions.pdf
-Full research paper
+
+Python-based simulation,
+Mathematical modelling,
+Microeconomic analysis,
+Game-theoretic reasoning,
+Auction theory,
+Data visualisation,
+Strategic decision-making analysis,
+Research writing,
+Quantitative economic modelling,
+
+
 Citation
 
 Mahmuti, A. (2025). Computational Analysis of Sealed-Bid Auctions Using Auction Theory. Independent research project / Treball de Recerca.
